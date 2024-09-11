@@ -1,0 +1,9 @@
+my_rover_package/
+├── launch/
+│   └── launch_rover.py
+├── src/
+│   └── rover_control_node.py
+├── urdf/
+│   └── rover_model.urdf
+├── CMakeLists.txt
+├── package.xml
